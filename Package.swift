@@ -27,8 +27,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AppodealMetaAudienceNetworkAdapter",
-            url: "https://appodeal-ios.s3.us-west-1.amazonaws.com/Appodeal/SPM/AppodealMetaAudienceNetworkAdapter/6.21.1.0/AppodealMetaAudienceNetworkAdapter.xcframework.zip",
-            checksum: "2309d545f05df74af1378864dff64fb9fb55a018d09395724d2b0a6ea9b6aedb"
+            url: "https://appodeal-ios.s3.us-west-1.amazonaws.com/Appodeal/SPM/AppodealMetaAudienceNetworkAdapter/6.21.1.1/f62c45527331/AppodealMetaAudienceNetworkAdapter.xcframework.zip",
+            checksum: "f62c455273312a957ff759791e2f60cc379d573f0b9789c6bce9e41a1641a13c"
         ),
 
     ]
