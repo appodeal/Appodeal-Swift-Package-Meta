@@ -12,7 +12,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/appodeal/Appodeal-Swift-Package.git", .upToNextMajor(from: "4.0.0-alpha.1")),
-        .package(url: "https://github.com/facebook/FBAudienceNetwork", exact: "6.21.1"),
+        .package(url: "https://github.com/facebook/FBAudienceNetwork", exact: "6.22.1"),
     ],
     targets: [
         .target(
@@ -27,8 +27,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AppodealMetaAudienceNetworkAdapter",
-            url: "https://appodeal-ios.s3.us-west-1.amazonaws.com/Appodeal/SPM/AppodealMetaAudienceNetworkAdapter/6.21.1.1/f62c45527331/AppodealMetaAudienceNetworkAdapter.xcframework.zip",
-            checksum: "f62c455273312a957ff759791e2f60cc379d573f0b9789c6bce9e41a1641a13c"
+            url: "https://appodeal-ios.s3.us-west-1.amazonaws.com/Appodeal/SPM/AppodealMetaAudienceNetworkAdapter/6.22.1.0/ece9a97e9b5e/AppodealMetaAudienceNetworkAdapter.xcframework.zip",
+            checksum: "ece9a97e9b5e29d26e9107196e6d7b53242df7b30ecbfaeb806df907aa477db6"
         ),
 
     ]
